@@ -1,20 +1,17 @@
-{
-    "shreya":
+
 [
     {
         "card": {
             "id": 1,
             "name": "asdfghjkl"
-	}
-},
-{
-    
+                },
+                
         "card": {
             "id": 2,
             "name": "sssawerty"
         }
-}
 
+
+
+    }
 ]
-
-}
